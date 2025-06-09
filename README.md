@@ -7,3 +7,4 @@ Learning CUDA and contributing code every day
 
 ## Progress
 - [Day 1](./day_01/) - Basic Vector Addition in CUDA
+- [Day 1](./day_02/) - Implemented Matrix Addition in CUDA
