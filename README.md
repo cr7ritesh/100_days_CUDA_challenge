@@ -9,3 +9,4 @@ Learning CUDA and contributing code every day
 - [Day 1](./day_01/) - Basic Vector Addition in CUDA
 - [Day 2](./day_02/) - Implemented Matrix Addition in CUDA
 - [Day 3](./day_03/) - Implemented Matrix Multiplication in CUDA
+- [Day 4](./day_04/) - RELU implementaion in CUDA
