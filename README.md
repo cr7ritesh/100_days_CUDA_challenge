@@ -11,3 +11,4 @@ Learning CUDA and contributing code every day
 - [Day 3](./day_03/) - Implemented Matrix Multiplication in CUDA
 - [Day 4](./day_04/) - RELU implementaion in CUDA
 - [Day 5](./day_05/) - Leaky RELU implementaion in CUDA
+- [Day 6](./day_06/) - Softmax implementaion in CUDA
