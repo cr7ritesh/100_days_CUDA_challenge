@@ -12,3 +12,4 @@ Learning CUDA and contributing code every day
 - [Day 4](./day_04/) - RELU implementaion in CUDA
 - [Day 5](./day_05/) - Leaky RELU implementaion in CUDA
 - [Day 6](./day_06/) - Softmax implementaion in CUDA
+- [Day 7](./day_07/) - Dot Product implementation in CUDA
