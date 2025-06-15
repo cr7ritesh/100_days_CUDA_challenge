@@ -41,7 +41,7 @@ int main() {
     auto start = std::chrono::high_resolution_clock::now(); 
     int blocksPerGrid = (N + threadsPerBlock - 1) / threadsPerBlock;
     cudaError_t err;
-    reduceKernel<<<blocksPerGrid, threadsPerBlock>>>(da, db);
+    reduceKernel<<<blocksPerGrid, threadsPerBlock, threadsPerBlock * sizeof(int)>>>(da, db);
     err = cudaGetLastError();
     if (err != cudaSuccess) {
         std::cerr << "CUDA error: " << cudaGetErrorString(err) << std::endl;
