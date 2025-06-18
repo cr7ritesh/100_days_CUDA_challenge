@@ -16,3 +16,4 @@ Learning CUDA and contributing code every day
 - [Day 8](./day_08/) - Reduce Sum implementation in CUDA
 - [Day 9](./day_09/) - Layer Normalization implementation in CUDA
 - [Day 10](./day_10/) - Matrix Transpose implementation in CUDA
+- [Day 11](./day_11/) - 1d convolution implementation in CUDA
