@@ -20,3 +20,4 @@ Learning CUDA and contributing code every day
 - [Day 12](./day_12/) - 2d convolution implementation in CUDA
 - [Day 13](./day_13/) - Optimised Reduce Sum with Sequential Addressing in CUDA
 - [Day 14](./day_14/) - Tiled matrix multiplication in CUDA
+- [Day 15](./day_15/) - Array Reversal in CUDA
