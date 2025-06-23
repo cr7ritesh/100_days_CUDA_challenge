@@ -21,3 +21,4 @@ Learning CUDA and contributing code every day
 - [Day 13](./day_13/) - Optimised Reduce Sum with Sequential Addressing in CUDA
 - [Day 14](./day_14/) - Tiled matrix multiplication in CUDA
 - [Day 15](./day_15/) - Array Reversal in CUDA
+- [Day 16](./day_16/) - Optimised Reduce Sum implementation in CUDA
