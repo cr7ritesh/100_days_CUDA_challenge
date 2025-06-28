@@ -26,3 +26,4 @@ Learning CUDA and contributing code every day
 - [Day 18](./day_18/) - Layer Norm implementation using shared memory in CUDA
 - [Day 19](./day_19/) - Matrix Transpose implementation using shared memory in CUDA
 - [Day 20](./day_20/) - Flash attention forward pass implementation in CUDA
+- [Day 21](./day_21/) - Binary cross entropy loss implementation in CUDA
