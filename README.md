@@ -33,3 +33,4 @@ Learning CUDA and contributing code every day
 | [Day 22](./day_22/)  | Binary cross entropy loss with softmax implementation in CUDA |
 | [Day 23](./day_23/)  | Naive Bayes implementation in CUDA                      |
 | [Day 24](./day_24/)  | BFS implementation in CUDA                              |
+| [Day 25](./day_25/)  | Mini-batch Stochastic Gradient Descent implementation in CUDA |
